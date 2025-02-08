@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: black;
+    font-family: "Times New Roman", serif;
+    color: white;
+  }
+  
+  a {
+    color: white;
+  }
+  
+  button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
